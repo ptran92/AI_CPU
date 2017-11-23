@@ -1,0 +1,2 @@
+neural_network/train-* filter=lfs diff=lfs merge=lfs -text
+neural_network/t10k-* filter=lfs diff=lfs merge=lfs -text
